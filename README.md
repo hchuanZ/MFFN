@@ -1,2 +1,2 @@
-# MFFN
-MFFN code
+# RPS-Net
+RPS-Net code
